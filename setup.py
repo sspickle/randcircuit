@@ -13,5 +13,6 @@ setup(name='randcircuit',
       author_email='steve@spvi.com',
       license='MIT',
       packages=['randcircuit'],
+      install_requires=['pytikz','randresist'],
       zip_safe=False,
 )
